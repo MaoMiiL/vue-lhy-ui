@@ -1,4 +1,4 @@
-# vue-toast
+# vue-lhy-ui
 
 > A Vue.js project
 
