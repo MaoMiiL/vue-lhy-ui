@@ -9,6 +9,7 @@ const components = [
 const install = function(Vue){
 
   if (install.installed) return;
+  
   //注册所有组件：全局注册
   components.map((component)=>{
     Vue.component(component.name,component);
